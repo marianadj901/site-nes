@@ -12,7 +12,7 @@ O site conta com três páginas principais:
 
 Você pode visualizar o site localmente no seguinte link:
 
-
+[https://marianadj901.github.io/site-nes/](https://marianadj901.github.io/site-nes/)
 
 Este é o link para visualização local em sua máquina enquanto o servidor estiver rodando. Caso tenha feito o deploy em um servidor ou GitHub Pages, substitua por esse novo link.
 
